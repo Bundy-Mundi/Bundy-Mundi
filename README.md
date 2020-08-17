@@ -1,11 +1,13 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 # Hi There! ✋✊🏿
 My name is Ben Kweon, I'm from Korea.
 
 ## 📚 Currently Focusing On
-- I'm currently working on ...
-- I'm currently working on ...
-- I'm currently working on ...
-- I'm currently working on ...
+- 😆 I'm currently working on completing **[react-tailwind-boilerplate](https://github.com/Bundy-Mundi/react-tailwind-boilerplate)**.
+- 😆 I'm currently working on completing **[Junpei's Training Project](https://junpei.netlify.app/)**. Feel free to check it out!
+- 🙄 I'm currently learning Typescript.
+- 😥 I'm currently working on math.
+- 😆 I'm currently looking for good internship opportunities.
 
 ## 🏫 School 
 - Studying in **Santa Monica College**.
@@ -35,4 +37,4 @@ My name is Ben Kweon, I'm from Korea.
 </a>
 
 ## 🅱 Feel Free To Check Out My Blog!!
-[Blog](https://bundy-mundi.github.io/ben/)
+**[Blog](https://bundy-mundi.github.io/ben/)**
