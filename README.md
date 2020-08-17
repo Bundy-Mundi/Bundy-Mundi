@@ -12,9 +12,9 @@ My name is Ben Kweon, I'm from Korea
 - Hopefully get to transfer to **Cal Poly in San Louis Obispo** soon.
 
 ## 💻 Technology & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/Web-JS-informational?style=for-the-badge&logo=Javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Data-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Web-JS-informational?style=flat-square&logo=Javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Data-Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
 
 ## 📈 Github Stats
 <a href="https://github.com/Bundy-Mundi/Bundy-Mundi">
@@ -28,4 +28,4 @@ My name is Ben Kweon, I'm from Korea
 </a>
 
 ## 🅱 Feel Free To Check Out My Blog!!
-Live Site URL => [https://bundy-mundi.github.io/ben/](https://bundy-mundi.github.io/ben/)
+[Blog](https://bundy-mundi.github.io/ben/)
