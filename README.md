@@ -1,4 +1,4 @@
-[![Header](https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1060&h=450)](https://bundy-mundi.github.io/ben/)
+[![Header](https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1060&q=80&h=370)](https://bundy-mundi.github.io/ben/)
 # Hi There! ✋✊🏿
 My name is Ben Kweon, I'm from Korea.
 
