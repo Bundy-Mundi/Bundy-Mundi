@@ -22,13 +22,10 @@ I have **two years** experience in **web develepment**.
 
 ## 📈 Github Stats
 <a href="https://github.com/Bundy-Mundi/Bundy-Mundi">
-<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bundy-Mundi&hide=css,html&title_color=1d1d1d&text_color=1d1d1d&icon_color=2bbc8a&bg_color=f4f4f4"/>
+<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bundy-Mundi&hide=css,html&title_color=1d1d1d&text_color=1d1d1d&icon_color=2bbc8a&bg_color=ffffff"/>
 </a>
 <a href="https://github.com/Bundy-Mundi/Bundy-Mundi">
-<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Bundy-Mundi&show_icons=true&line_height=27&count_private=true&title_color=1d1d1d&text_color=1d1d1d&icon_color=2bbc8a&bg_color=f4f4f4" />
-</a>
-<a href="https://github.com/Bundy-Mundi/Bundy-Mundi">
-<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bundy-Mundi&repo=react-tailwind-boilerplate&title_color=1d1d1d&text_color=1d1d1d&icon_color=2bbc8a&bg_color=f4f4f4"/>
+<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Bundy-Mundi&show_icons=true&line_height=27&count_private=true&title_color=1d1d1d&text_color=1d1d1d&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
 
 ## 📚 Currently Focusing On
