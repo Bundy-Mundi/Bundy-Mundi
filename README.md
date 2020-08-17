@@ -1,17 +1,7 @@
 [![Header](https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1060&q=80&h=370)](https://bundy-mundi.github.io/ben/)
 # Hi There! ✋✊🏿
 My name is Ben Kweon, I'm from Korea.
-
-## 📚 Currently Focusing On
-- 😆 I'm currently working on completing **[react-tailwind-boilerplate](https://github.com/Bundy-Mundi/react-tailwind-boilerplate)**.
-- 😆 I'm currently working on completing **[Junpei's Training Project](https://junpei.netlify.app/)**. Feel free to check it out!
-- 🙄 I'm currently learning Typescript.
-- 😥 I'm currently working on math.
-- 😆 I'm currently looking for good internship opportunities.
-
-## 🏫 School 
-- Studying in **Santa Monica College**.
-- Hopefully get to transfer to **Cal Poly in San Louis Obispo** soon.
+I'm currently studying in **Santa Monica College**.
 
 ## 💻 Technology & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=0078D6&color=0078D6)
@@ -36,5 +26,12 @@ My name is Ben Kweon, I'm from Korea.
 <img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bundy-Mundi&repo=react-tailwind-boilerplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-## 🅱 Feel Free To Check Out My Blog!!
+## 📚 Currently Focusing On
+- 😆 I'm currently working on completing **[react-tailwind-boilerplate](https://github.com/Bundy-Mundi/react-tailwind-boilerplate)**.
+- 😆 I'm currently working on completing **[Junpei's Training Project](https://junpei.netlify.app/)**. Feel free to check it out!
+- 🙄 I'm currently learning Typescript.
+- 😥 I'm currently working on math.
+- 😆 I'm currently looking for good internship opportunities.
+
+## 🅱 Feel Free To Check Out My Blog 
 **[Blog](https://bundy-mundi.github.io/ben/)**
