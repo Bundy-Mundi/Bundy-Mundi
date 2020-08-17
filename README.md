@@ -1,7 +1,12 @@
 [![Header](https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1060&q=80&h=370)](https://bundy-mundi.github.io/ben/)
 # Hi There! ✋✊🏿
 My name is Ben Kweon, I'm from Korea.
-I'm currently studying in **Santa Monica College**.
+
+I'm currently studying in **Santa Monica College**, major in Computer Science.
+
+Have 2 years of experience in web develepment.
+
+My goal as a programmer is contributing in making the world to better place.
 
 ## 💻 Technology & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=0078D6&color=0078D6)
