@@ -29,10 +29,9 @@ I have **two years** experience in **web develepment**.
 </a>
 
 ## 📚 Currently Focusing On
-- 😆 I'm currently working on completing **[react-tailwind-boilerplate](https://github.com/Bundy-Mundi/react-tailwind-boilerplate)**.
-- 😆 I'm currently working on completing **[Junpei's Training Project](https://junpei.netlify.app/)**. Feel free to check it out!
-- 🙄 I'm currently learning Typescript.
-- 😥 I'm currently working on math.
+- 🙄 I'm currently working on optimization using Redux & React.
+- 🙄 I'm currently learning how to implement payment system effectively with Stripe.
+- 😥 I'm currently working on math & physics.
 - 😆 I'm currently looking for good internship opportunities.
 
 ## 🅱 Feel Free To Check Out My Blog 
