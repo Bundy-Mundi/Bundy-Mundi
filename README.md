@@ -31,6 +31,8 @@ I have **two years** experience in **web develepment**.
 ## 📚 Currently Focusing On
 - 🙄 I'm currently working on optimization using Redux & React.
 - 🙄 I'm currently learning how to implement payment system effectively with Stripe.
+- 🙄 I'm currently learning python data analyzing libraries such as numpy, pandas, and selenium.
+- 😎 I want to have a good handle in C++ and linux for cyber security.
 - 😥 I'm currently working on math & physics.
 - 😆 I'm currently looking for good internship opportunities.
 
