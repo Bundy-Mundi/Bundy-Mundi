@@ -35,6 +35,3 @@ I have **two years** experience in **web develepment**.
 - 😎 I want to have a good handle in C++ and linux for cyber security.
 - 😥 I'm currently working on math & physics.
 - 😆 I'm currently looking for good internship opportunities.
-
-## 🅱 Feel Free To Check Out My Blog 
-**[Blog](https://bundy-mundi.github.io/ben/)**
