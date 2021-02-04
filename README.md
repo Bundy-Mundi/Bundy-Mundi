@@ -13,7 +13,6 @@ I have **two years** experience in **web develepment**.
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat-square&logo=Javascript&logoColor=F7DF1E&color=F7DF1E)
 ![](https://img.shields.io/badge/Data-Python-informational?style=flat-square&logo=python&logoColor=3776AB&color=3776AB)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=47A248&color=47A248)
-![](https://img.shields.io/badge/Query-GraphQL-informational?style=flat-square&logo=graphql&logoColor=E10098&color=E10098)
 ![](https://img.shields.io/badge/Query-REST-informational?style=flat-square&color=F80000)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat-square&logo=react&logoColor=61DAFB&color=61DAFB)
 ![](https://img.shields.io/badge/Frontend-Redux-informational?style=flat-square&logo=redux&logoColor=764ABC&color=764ABC)
