@@ -1,6 +1,7 @@
+# Hi There! ✋
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bundy-Mundi&theme=onedark)](#)
 
-# Hi There! ✋
 My name is **Ben Kweon**, I'm from **Korea**.
 
 I'm currently studying at **Santa Monica College** in Los Angeles California. 
