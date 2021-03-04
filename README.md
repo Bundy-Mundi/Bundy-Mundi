@@ -30,8 +30,7 @@ I have **two years** experience in **web develepment**.
 </a>
 
 ## 📚 Currently Focusing On
-- 🙄 I'm currently learning Go & PHP (for free-lancing)
+- 🙄 I'm currently learning Go
 - 😏 I'm interested in python data analyzing libraries such as numpy, pandas, and selenium.
 - 😎 I want to have a good handle in C++ and linux for cyber security.
-- 😥 I'm currently working on discrete math & calculus 3.
 - 😆 I'm currently looking for good internship opportunities.
