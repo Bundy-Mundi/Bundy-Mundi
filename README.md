@@ -21,13 +21,11 @@ I have **two years** experience in **web develepment**.
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat-square&logo=node-js&logoColor=87C000&color=87C000)
 ![](https://img.shields.io/badge/Editor-VSC-informational?style=flat-square&color=007ACC)
 
+
+
 ## 📈 Github Stats
-<a href="https://github.com/Bundy-Mundi/Bundy-Mundi">
-<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bundy-Mundi&hide=css,html&title_color=1d1d1d&text_color=1d1d1d&icon_color=2bbc8a&bg_color=ffffff"/>
-</a>
-<a href="https://github.com/Bundy-Mundi/Bundy-Mundi">
-<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=Bundy-Mundi&show_icons=true&line_height=27&count_private=true&title_color=1d1d1d&text_color=1d1d1d&icon_color=2bbc8a&bg_color=ffffff" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bundy-Mundi&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bundy-Mundi&show_icons=true)
 
 ## 📚 Currently Focusing On
 - 🙄 I'm currently learning Go
