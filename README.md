@@ -22,13 +22,24 @@ I have **two years** experience in **web develepment**.
 ![](https://img.shields.io/badge/Editor-VSC-informational?style=flat-square&color=007ACC)
 
 
-
 ## 📈 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bundy-Mundi&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bundy-Mundi&show_icons=true)
 
 ## 📚 Currently Focusing On
-- 🙄 I'm currently learning Go
-- 😏 I'm interested in python data analyzing libraries such as numpy, pandas, and selenium.
-- 😎 I want to have a good handle in C++ and linux for cyber security.
-- 😆 I'm currently looking for good internship opportunities.
+
+### Programming Language
+
+- Typescript
+- Go
+
+### Networking
+
+- Basics Concepts
+- Cloud Networking
+
+### Web Programming
+
+- Node JS
+- React
+- PHP
