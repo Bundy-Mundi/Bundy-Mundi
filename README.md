@@ -28,7 +28,7 @@ I have **two years** experience in **web develepment**.
 
 ## 📚 Currently Focusing On
 
-### Programming Language
+### Programming Languages
 
 - Typescript
 - Go
