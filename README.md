@@ -4,7 +4,7 @@
 
 My name is **Ben Kweon**, I'm from **Korea**.
 
-I'm currently studying at **Santa Monica College** in Los Angeles California. 
+I'm currently studying at **Cal State University Long Beach**. 
 
 I major in **Computer Science**.
 
